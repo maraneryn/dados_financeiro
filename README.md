@@ -1,24 +1,24 @@
 # Dashboard Financeiro - Power BI
 
 ## Descrição
-Dashboard desenvolvido para análise financeira, com foco em controle de receitas, despesas e saldo consolidado.
+Dashboard desenvolvido para controle financeiro e análise de desempenho econômico.
 
 ## Indicadores
-- Total de receitas
-- Total de despesas
-- Saldo atual
-- Evolução do fluxo de caixa
+- Receitas totais
+- Despesas totais
+- Saldo consolidado
+- Fluxo de caixa
 
 ## Funcionalidades
-- Visualização dinâmica de dados financeiros
-- Análise temporal (mensal/anual)
+- Monitoramento financeiro
+- Análise temporal
 - Apoio à tomada de decisão
 
-## Ferramentas
+## Ferramenta
 - Power BI
 
 ## Objetivo
-Projeto voltado para gestão financeira e construção de indicadores estratégicos.
+Fornecer visão estratégica da saúde financeira.
 
 ## Autor
 Mara Nery
